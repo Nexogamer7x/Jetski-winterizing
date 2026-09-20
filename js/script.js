@@ -49,6 +49,6 @@ form.addEventListener('submit', (e) => {
     `Details:\n${message}`
   );
 
-  window.location.href = `mailto:info@smokymountainjetski.com?subject=${subject}&body=${body}`;
+  window.location.href = `mailto:eb016381@gmail.com?subject=${subject}&body=${body}`;
   formNote.textContent = 'Opening your email app to send the request...';
 });
